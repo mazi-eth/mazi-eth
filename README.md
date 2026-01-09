@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Mazi the Support Superman 🦸‍♂️
 
-<!--
-**mazi-base-eth/mazi-base-eth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer || Supporting web3 communities**
 
-Here are some ideas to get you started:
+Currently learning C & JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I Do
+- Customer Support & Community Specialist (4+ years)
+- Building web solutions and technical integrations
+- Growing and supporting web3 projects
+
+### Connect
+• [Twitter](https://x.com/calebsgram) • takalezi6@gmail.com
+
+---
