@@ -2,7 +2,7 @@
 
 **Software Engineer || Supporting web3 communities**
 
-Currently learning C & JavaScript
+Currently learning C & Java
 
 ### What I Do
 - Customer Support & Community Specialist (4+ years)
