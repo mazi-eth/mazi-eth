@@ -1,15 +1,18 @@
-# Hi, I'm Mazi the Support Superman 🦸‍♂️
+# Hi, I'm Mazi 🦸‍♂️
 
-**Software Engineer || Supporting web3 communities**
+**Software Developer | Java Enthusiast | Building useful software**
 
-Currently learning C & Java
+I'm passionate about building software that solves real problems and creating solutions that make people's work easier
 
-### What I Do
-- Customer Support & Community Specialist (4+ years)
-- Building web solutions and technical integrations
-- Growing and supporting web3 projects
+My background in customer and technical support has given me a user-first perspective, which now shapes how I approach software development. I'm currently learning Java, strengthening my programming fundamentals through Harvard's CS50 (C, Python, and SQL), and exploring practical AI integrations.
 
-### Connect
-• [Twitter](https://x.com/calebsgram) • takalezi6@gmail.com
+## Currently
 
----
+- ☕ Building projects with Java
+- 🧠 Completing Harvard's CS50 (C, Python & SQL)
+- 🤖 Building AI-powered customer support solutions
+- 🚀 Building practical software and continuously improving my craft
+
+## Connect
+
+• Email: takalezi6@gmail.com
