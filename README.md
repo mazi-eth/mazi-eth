@@ -1,6 +1,8 @@
 # Hi, I'm Mazi
 
 **Software Engineer | Python & Flask | Transitioning to Java**
+
+
 Software engineer building server-side systems with Python, Flask, and SQLite. My background in customer and technical support shapes how I think about software, practical and built to solve real problems.
 
 ## Currently
