@@ -1,18 +1,15 @@
-# Hi, I'm Mazi 🦸‍♂️
+# Hi, I'm Mazi
 
-**Software Developer | Java Enthusiast | Building useful software**
-
-I'm passionate about building software that solves real problems and creating solutions that make people's work easier
-
-My background in customer and technical support has given me a user-first perspective, which now shapes how I approach software development. I'm currently learning Java, strengthening my programming fundamentals through Harvard's CS50 (C, Python, and SQL), and exploring practical AI integrations.
+**Software Engineer | Python & Flask | Transitioning to Java**
+Software engineer building server-side systems with Python, Flask, and SQLite. My background in customer and technical support shapes how I think about software, practical and built to solve real problems.
 
 ## Currently
+- ☕ Transitioning into Java
+- 🐍 Building server-side systems with Python and Flask
+- 🎓 Postgraduate Diploma in Software Development — Maynooth University
 
-- ☕ Building projects with Java
-- 🧠 Completing Harvard's CS50 (C, Python & SQL)
-- 🤖 Building AI-powered customer support solutions
-- 🚀 Building practical software and continuously improving my craft
+## Completed
+- [Harvard's CS50](https://cs50.harvard.edu/x/) (C, Python, SQL & Web)
 
 ## Connect
-
-• Email: takalezi6@gmail.com
+- Email: takalezi6@gmail.com
