@@ -1,4 +1,4 @@
-# Hi, I'm Mazi
+# Hi, I'm Mazi 👋
 
 **Software Engineer | Python & Flask | Transitioning to Java**
 
