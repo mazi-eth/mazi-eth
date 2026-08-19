@@ -1,14 +1,15 @@
 # Hi, I'm Mazi 👋
 
-**Software Engineer | Python & Flask | Transitioning to Java**
+**Backend Software Engineer | Python, Flask & SQL | Building Real-World 
 
-
-Software engineer building server-side systems with Python, Flask, and SQLite. My background in customer and technical support shapes how I think about software, practical and built to solve real problems.
+Software engineer focused on backend development and building practical software around real-world problems. My background in technical and customer support shapes how I approach engineering: understand the problem, understand the user, and build something that actually works.
 
 ## Currently
-- ☕ Transitioning into Java
-- 🐍 Building server-side systems with Python and Flask
+- 🐍 Building backend systems with Python and Flask
+- ☕ Learning Java and Spring Boot
 - 🎓 Postgraduate Diploma in Software Development — Maynooth University
+- ❤️ Building ZeechiB,a business operations and receivables platform for small businesses
+- 🔧 Exploring open-source contribution, CI/CD and production software engineering
 
 ## Completed
 - [Harvard's CS50](https://cs50.harvard.edu/x/) (C, Python, SQL & Web)
