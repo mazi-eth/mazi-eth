@@ -1,14 +1,13 @@
 # Hi, I'm Mazi 👋
 
-## Backend Software Engineer | Python, Flask & SQL | Building Real-World Products 
+## Product Engineer | Python, Flask | TypeScript, Cloudflare
 
-Software engineer focused on backend development and practical software. My background in customer support shapes how I approach engineering: understand the problem, understand the user, and build something that actually works.
+Software engineer focused on backend development and practical software. My customer-support background shapes how I work: understand the problem, understand the user, build something that works. I build with AI coding agents (Claude Code, Cursor)
 
 ## Currently
-- 🐍 Building backend systems with Python and Flask
+- 🐍 Building [Wakawithme](http://wakawithme.app/), a commuter carpool app for Lagos so employees can split fuel costs and get to work on time (React, Hono, Cloudflare Workers + D1)
+- ❤️ Building [ZeechiB](https://github.com/mazi-eth/ZeechiB-Internal-Tool), a business operations and receivables platform for small businesses (Python, Flask, CloudFlare Workers + D1)
 - ☕ Learning Java and Spring Boot
-- 🎓 Incoming Postgraduate Diploma in Software Development — Maynooth University
-- ❤️ Building [ZeechiB](https://github.com/mazi-eth/ZeechiB-Internal-Tool), a business operations and receivables platform for small businesses
 - 🔧 Exploring open-source contribution, CI/CD and production software engineering
 
 ## Completed
