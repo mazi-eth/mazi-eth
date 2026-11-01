@@ -1,8 +1,8 @@
 # Hi, I'm Mazi 👋
 
-## Product Engineer | Python, Flask | TypeScript, Cloudflare
+## Product Engineer | Python, Java, TypeScript
 
-Software engineer focused on backend development and practical software. My customer-support background shapes how I work: understand the problem, understand the user, build something that works. I build with AI coding agents (Claude Code, Cursor)
+Software engineer focused on backend development and practical software. My customer-support background shapes how I work: understand the problem, understand the user, build something that works.
 
 ## Currently
 - 🐍 Building [Wakawithme](http://wakawithme.app/), a commuter carpool app for Lagos so employees can split fuel costs and get to work on time (React, Hono, Cloudflare Workers + D1)
